@@ -20,4 +20,15 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
-
+  assets:
+    - assets/img/
+  fonts:
+    - family: 'Great Vibes'
+      fonts:
+        - asset: assets/fonts/GreatVibes-Regular.ttf
+    - family: 'Assistant'
+      fonts:
+        - asset: assets/fonts/Assistant-VariableFont_wght.ttf
+    - family: 'Noto Sans'
+      fonts:
+        - asset: assets/fonts/NotoSans-Regular.ttf
